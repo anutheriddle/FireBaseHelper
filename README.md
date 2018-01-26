@@ -1,9 +1,6 @@
 # FireBaseHelper
 
-[![CI Status](http://img.shields.io/travis/anutheriddle/FireBaseHelper.svg?style=flat)](https://travis-ci.org/anutheriddle/FireBaseHelper)
-[![Version](https://img.shields.io/cocoapods/v/FireBaseHelper.svg?style=flat)](http://cocoapods.org/pods/FireBaseHelper)
-[![License](https://img.shields.io/cocoapods/l/FireBaseHelper.svg?style=flat)](http://cocoapods.org/pods/FireBaseHelper)
-[![Platform](https://img.shields.io/cocoapods/p/FireBaseHelper.svg?style=flat)](http://cocoapods.org/pods/FireBaseHelper)
+Firebase Helper will help the developer implement basic functionality of FireBase Cloud and Security. It's a Wrapper over FireBase .
 
 ## Example
 
